@@ -10,5 +10,42 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 
-  font: sans-serif;
+  font-family: sans-serif;
+  background-color: #e2e2e2;
+}
+
+body {
+  margin: 0;
+}
+
+h2 {
+  font-size: 1rem;
+  margin-bottom: 0;
+}
+
+p {
+  margin-top: 0;
+  padding-bottom: 1rem;
+}
+
+img {
+  width: 100%;
+  padding-top: 2rem;
+}
+
+a {
+  text-decoration: none;
+  color: #e2e2e2;
+}
+
+.button a {
+  padding: .5em .75em;
+  background-color: #555;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #555;
+}
+
+.information {
+  padding-left: 1rem;
 }
