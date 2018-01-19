@@ -71,15 +71,15 @@ a {
   }
 
   .whole {
-    position: relative;
+    text-align: center;
   }
 
   .wrapper {
     vertical-align: middle;
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 100%;
+  }
+
+  .information {
+    text-align: left;
   }
 
   div {
